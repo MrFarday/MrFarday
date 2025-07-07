@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there I'm Mr Farday👋
+![happy day!!! :)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnY5MWFoOGlyZHZqam1rem02ODE3aWcxOHNnZmhtdjlzcDJ3eWJvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1IXWu7nURgFJiTv2/giphy.gif)
 <!--
 **MrFarday/MrFarday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **Automation Artificial intelligence**
+- ❤️😊😁
